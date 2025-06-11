@@ -33,7 +33,7 @@ Languages: Python, JavaScript (Node.js)
 
 Data & ML: Pandas, Scikit-learn, XGBoost, NLP libraries
 
-Visualization: Matplotlib, Seaborn, D3.js, Plotly
+Visualisation: Matplotlib, Seaborn, D3.js, Plotly
 
 Infrastructure: Docker, AWS/GCP, Secure APIs
 
@@ -42,7 +42,3 @@ Workflow: Git, Jupyter Notebooks, CI/CD
 👋🏻 Connect with Me
 
 LinkedIn: linkedin.com/in/jack-gk
-
-GitHub: github.com/jack-gk
-
-Email: jack.gk@example.com
