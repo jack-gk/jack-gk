@@ -1,5 +1,7 @@
 Introducing Myself
 
+![banner](https://github.com/user-attachments/assets/bcf17163-f2a2-4da2-8a5d-01f36ef90545)
+
 Hello, I’m Jack GK
 Data Scientist & Developer building real-world solutions with data, cloud, and code — from clustering police resource data to predictive hospital models.
 
