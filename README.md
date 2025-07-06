@@ -1,21 +1,21 @@
 ![Untitled](https://github.com/user-attachments/assets/2df144ff-6695-47d9-937d-1d0f543f09fd)
 
 Hello, I’m Jack GK
-Data Scientist & Developer building real-world solutions with data, cloud, and code — from clustering police resource data to predictive hospital models.
+Data Scientist & Developer building real-world solutions with data, cloud, and code including clustering police resource data to predictive hospital models.
 
 🚀 What I Do
 
-Python │ Pandas & Scikit-learn │ Node.js
+Python │ Pandas & Scikit-learn
 
-Docker │ Cloud Deployments & 256-bit Encryption
+Predictive Modelling │ Unsupervised / Supervised Learning
 
-NLP Pipelines & Predictive Modelling
+Docker │ Cloud Deployments │ 256-bit Encryption
 
-Frontend & Interactive Visualizations (D3, Plotly)
+Frontend & Interactive Visualizations (HTML/CSS, Plotly)
 
 Usability-Focused Data Dashboards
 
-📚 Selected Projects
+📚 Projects Examples
 
 Diabetic Readmission Prediction
 • Developed a predictive model to estimate hospital readmission risk for diabetic patients using public health datasets.
@@ -23,21 +23,21 @@ Diabetic Readmission Prediction
 • Achieved 82% test accuracy and delivered a prototype visual interface for risk scoring.
 
 Clustering & Insight Platform (i-three analytics)
-• Designed a system to explore K-Means & DBSCAN clustering on geospatial policing data.
-• Deployed Dockerized dashboards with real-time visual heatmaps to support resource allocation.
-• Improved clarity on demand zones and influenced strategy discussions with stakeholders.
+• Designed a system to explore hierarchical clustering on geospatial policing data.
+• Plotted polar, linear and colour-coded, graphical 2d/3d plots.
+• Dimension reduction algorithms utilised such as PCA and UMAP
 
 🛠️ Tools & Technologies
 
-Languages: Python, JavaScript (Node.js)
+Languages: Python, SQL, Java
 
-Data & ML: Pandas, Scikit-learn, XGBoost, NLP libraries
+Data & ML: Pandas, Scikit-learn
 
-Visualisation: Matplotlib, Seaborn, D3.js, Plotly
+Visualisation: Matplotlib, Seaborn, Plotly
 
-Infrastructure: Docker, AWS/GCP, Secure APIs
+Infrastructure: Docker, AWS, GCP
 
-Workflow: Git, Jupyter Notebooks, CI/CD
+Workflow: Git
 
 👋🏻 Connect with Me
 
