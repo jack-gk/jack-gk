@@ -1,5 +1,3 @@
-![Untitled](https://github.com/user-attachments/assets/2df144ff-6695-47d9-937d-1d0f543f09fd)
-
 Hello, I’m Jack GK
 Data Scientist & Developer building real-world solutions with data, cloud, and code including clustering police resource data to predictive hospital models.
 
