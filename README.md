@@ -1,42 +1,56 @@
-Hello, I’m Jack GK
-Data Scientist & Developer building real-world solutions with data, cloud, and code including clustering police resource data to predictive hospital models.
+"""## Hi there, I'm Jack GK <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-🚀 What I Do
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jack-gk)
+![Profile views](https://komarev.com/ghpvc/?username=jackgk)
 
-Python │ Pandas & Scikit-learn
+---
 
-Predictive Modelling │ Unsupervised / Supervised Learning
+## 👨‍💻 About Me
 
-Docker │ Cloud Deployments │ 256-bit Encryption
+Data Scientist & Developer building real-world solutions with data, cloud and code. I’m a huge fan of **Python, SQL** and crafting & optimising ML models.  
+When I’m away from the keyboard you’ll catch me on the football pitch, throwing punches at my boxing club or clocking the miles as I train for a half-marathon this September.
 
-Frontend & Interactive Visualizations (HTML/CSS, Plotly)
+Currently contracting for **i-three management**, wrangling police data into actionable insight.
 
-Usability-Focused Data Dashboards
+---
 
-📚 Projects Examples
+## 🚀 Current Projects
 
-Diabetic Readmission Prediction
-• Developed a predictive model to estimate hospital readmission risk for diabetic patients using public health datasets.
-• Built an end-to-end ML pipeline: data cleaning, feature engineering, logistic regression & XGBoost, ROC/AUC evaluation.
-• Achieved 82% test accuracy and delivered a prototype visual interface for risk scoring.
+| Project | What I’m doing |
+|---------|----------------|
+| **i-three analytics** | Building and productionising clustering models within police datasets |
+| **Public-data web-scraper** | Extracting insights from open information to support key decisions |
+| **POS system** | Designing an end-to-end Point-of-Sale platform with efficient database storage |
 
-Clustering & Insight Platform (i-three analytics)
-• Designed a system to explore hierarchical clustering on geospatial policing data.
-• Plotted polar, linear and colour-coded, graphical 2d/3d plots.
-• Dimension reduction algorithms utilised such as PCA and UMAP
+---
 
-🛠️ Tools & Technologies
+## 🛠️ Languages & Tools
 
-Languages: Python, SQL, Java
+### Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
-Data & ML: Pandas, Scikit-learn
+### Data & ML  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-Visualisation: Matplotlib, Seaborn, Plotly
+### Visualisation  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
-Infrastructure: Docker, AWS, GCP
+### Infrastructure  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-Workflow: Git
+### Workflow  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-👋🏻 Connect with Me
+---
 
-LinkedIn: linkedin.com/in/jack-gk
+## 📫 Get in Touch
+
+Feel free to reach out via [LinkedIn](https://linkedin.com/in/jack-gk) I am always happy to chat
+"""
