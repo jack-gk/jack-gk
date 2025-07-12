@@ -1,7 +1,4 @@
-"""## Hi there, I'm Jack GK <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jack-gk)
-![Profile views](https://komarev.com/ghpvc/?username=jackgk)
+Hi there, I'm Jack GK <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 ---
 
