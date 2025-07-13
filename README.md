@@ -24,42 +24,48 @@ Currently contracting for **i-three management**, wrangling police data into act
 
 ---
 
-<!-- centred Languages & Tools block -->
-<h2 align="center">🛠️ Languages &amp; Tools</h2>
-
+<!-- ——— TECH STACK ——— -->
 <div align="center">
 
-  <h3>Languages</h3>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"   alt="SQL">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"   alt="Java">
+<table>
+<!-- ——— 1st ROW: HEADINGS ——— -->
+<tr>
+  <th style="padding:0 20px;">Data&nbsp;&amp;&nbsp;Machine&nbsp;Learning</th>
+  <th style="padding:0 20px;">Data&nbsp;Visualisation</th>
+  <th style="padding:0 20px;">Infrastructure</th>
+</tr>
 
-  <br><br>
+<!-- ——— 2nd ROW: ICONS ——— -->
+<tr>
+  <!-- Data & ML icons -->
+  <td align="center" style="padding:0 20px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"
+         alt="Pandas" height="40" style="margin-right:8px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg"
+         alt="Scikit-Learn" height="40">
+  </td>
 
-  <h3>Data &amp; ML</h3>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"         alt="Pandas">
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
+  <!-- Visualisation icons -->
+  <td align="center" style="padding:0 20px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg"
+         alt="Matplotlib" height="40" style="margin-right:8px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg"
+         alt="Plotly" height="40">
+  </td>
 
-  <br><br>
-
-  <h3>Visualisation</h3>
-  <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib">
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"    alt="Seaborn">
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"     alt="Plotly">
-
-  <br><br>
-
-  <h3>Infrastructure</h3>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"      alt="Docker">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"     alt="AWS">
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"   alt="GCP">
-
-  <br><br>
-
-  <h3>Workflow</h3>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <!-- Infrastructure icons -->
+  <td align="center" style="padding:0 20px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
+         alt="Docker" height="40" style="margin-right:8px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg"
+         alt="GCP" height="40">
+  </td>
+</tr>
+</table>
 
 </div>
+
+
 
 ---
 
